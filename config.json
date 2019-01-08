@@ -1,0 +1,1 @@
+{"tasks":[{"id":0,"name":"HELLO WORLD","script":"/Users/louis.benoist--foucher/Sites/estiam/cronos/cronos-core/scripts/helloworld.js","recurrence":1,"last":1546954921},{"id":1,"name":"HELLO WORLD 2","script":"/Users/louis.benoist--foucher/Sites/estiam/cronos/cronos-core/scripts/helloworld2.js","recurrence":4,"last":1546954921}]}
